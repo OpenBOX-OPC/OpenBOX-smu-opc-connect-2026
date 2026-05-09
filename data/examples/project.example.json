@@ -1,0 +1,17 @@
+{
+  "id": "agent-workflow-studio",
+  "name": "Agent Workflow Studio",
+  "track": "AI Agent",
+  "summary": "A no-code workflow canvas for coordinating autonomous agents.",
+  "team": "Mona Lisa",
+  "github": "https://github.com/example/agent-workflow-studio",
+  "demo": "https://example.com/demo",
+  "pitchDeck": "https://example.com/deck.pdf",
+  "members": [
+    {
+      "githubUsername": "octocat",
+      "role": "Builder"
+    }
+  ],
+  "submittedAt": "2026-05-29T10:00:00.000Z"
+}
