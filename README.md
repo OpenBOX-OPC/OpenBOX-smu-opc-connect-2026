@@ -9,7 +9,7 @@ The website reads approved data from this repository after pull requests are rev
 
 **Registration**
 
-[Register Here ➡️](https://github.com/CasualHackathon/SPARK-AI-Hackathon/issues/new?template=register.md)
+[Register Here ➡️](https://openbox.fund/event-smu.html)
 
 [Submit Project ➡️](https://openbox.fund/event-smu.html)
 
