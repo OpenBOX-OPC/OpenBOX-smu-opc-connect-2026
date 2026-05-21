@@ -15,7 +15,7 @@ The website reads approved data from this repository after pull requests are rev
 
 **Registration Tutorial**
 
-[Full Video Tutorial 🎥](https://hackathon.draken-eth.cc.cd/demo.mp4)
+[Full Video Tutorial 🎥](https://x.com/ZanyK559799/status/2057454494372503622?s=20)
 
 ## 02 | Important Notes
 
