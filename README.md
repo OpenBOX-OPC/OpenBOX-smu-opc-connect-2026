@@ -1,3 +1,5 @@
+![OpenBOX @ SMU OPC Connect 2026](./SGP2.png)
+
 # OpenBOX @ SMU OPC Connect 2026
 
 This repository stores public event data for OpenBOX @ SMU: Web3 & AI OPC Connect.
