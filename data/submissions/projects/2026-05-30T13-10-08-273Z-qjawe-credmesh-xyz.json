@@ -1,0 +1,16 @@
+{
+  "id": "credmesh-xyz-1780146608000",
+  "githubUsername": "qjawe",
+  "githubDisplayName": "JA - jawe.sol",
+  "githubAvatarUrl": "https://avatars.githubusercontent.com/u/16167774?v=4",
+  "githubProfileUrl": "https://github.com/qjawe",
+  "name": "credmesh.xyz",
+  "track": "AI Agent",
+  "summary": "CredMesh (by Unbrained Labs, v0.7.0) is an early-stage DeFi protocol offering unsecured credit to autonomous AI agents: LPs deposit USDC into a shared ERC-4626 vault, and that capital funds short-duration, uncollateralized advances underwritten by oracles (Hyperliquid balance, reputation score, or signed task certification) rather than collateral — so LPs bear default risk pro-rata.",
+  "team": "credmesh.xyz",
+  "github": "https://github.com/unbrained-labs/credmesh",
+  "demo": "https://youtu.be/3HnUh2SyuHU?si=LxOzCauFlPr5CEKn",
+  "pitchDeck": "https://drive.google.com/file/d/1fFEtEAve_SiIMjzTSQx76H_Ua756CsEU/view?usp=drivesdk",
+  "members": "Daniel, Raul and JC",
+  "submittedAt": "2026-05-30T13:10:08.000Z"
+}
